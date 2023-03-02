@@ -1,0 +1,37 @@
+c:\users\smtdn\onedrive\belgeler\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+c:\users\smtdn\onedrive\belgeler\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+c:\users\smtdn\onedrive\belgeler\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+c:\users\smtdn\onedrive\belgeler\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+c:\users\smtdn\onedrive\belgeler\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+c:\users\smtdn\onedrive\belgeler\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+c:\users\smtdn\onedrive\belgeler\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+c:\users\smtdn\onedrive\belgeler\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+c:\users\smtdn\onedrive\belgeler\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\smtdn\onedrive\belgeler\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+C:\Users\smtdn\onedrive\belgeler\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.YuklenmeEkrani.resources
+F:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+F:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+F:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\smtdn\OneDrive\Masaüstü\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Çekiliş Yap.exe.config
+C:\Users\smtdn\OneDrive\Masaüstü\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Çekiliş Yap.exe
+C:\Users\smtdn\OneDrive\Masaüstü\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Çekiliş Yap.pdb
+C:\Users\smtdn\OneDrive\Masaüstü\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\smtdn\OneDrive\Masaüstü\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\smtdn\OneDrive\Masaüstü\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+C:\Users\smtdn\OneDrive\Masaüstü\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\CekilisYap.Properties.Resources.resources
+C:\Users\smtdn\OneDrive\Masaüstü\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.YuklenmeEkrani.resources
+C:\Users\smtdn\OneDrive\Masaüstü\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\smtdn\OneDrive\Masaüstü\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Çekiliş Yap.exe
+C:\Users\smtdn\OneDrive\Masaüstü\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Çekiliş Yap.pdb
+D:\Çekiliş Uygulaması Yeni Hali\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Çekiliş Yap.exe.config
+D:\Çekiliş Uygulaması Yeni Hali\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Çekiliş Yap.exe
+D:\Çekiliş Uygulaması Yeni Hali\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Çekiliş Yap.pdb
+D:\Çekiliş Uygulaması Yeni Hali\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.AssemblyReference.cache
+D:\Çekiliş Uygulaması Yeni Hali\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+D:\Çekiliş Uygulaması Yeni Hali\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+D:\Çekiliş Uygulaması Yeni Hali\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\CekilisYap.Properties.Resources.resources
+D:\Çekiliş Uygulaması Yeni Hali\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.YuklenmeEkrani.resources
+D:\Çekiliş Uygulaması Yeni Hali\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.cache
+D:\Çekiliş Uygulaması Yeni Hali\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.CoreCompileInputs.cache
+D:\Çekiliş Uygulaması Yeni Hali\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Çekiliş Yap.exe
+D:\Çekiliş Uygulaması Yeni Hali\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Çekiliş Yap.pdb

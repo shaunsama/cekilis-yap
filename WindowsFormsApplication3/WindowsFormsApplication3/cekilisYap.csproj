@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B4932FFC-BC23-4D2C-B552-CB68E18CAC66}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CekilisYap</RootNamespace>
+    <AssemblyName>Çekiliş Yap</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>apple-touch-icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CekilisYap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CekilisYap.Designer.cs">
+      <DependentUpon>CekilisYap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CekilisSonuclari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CekilisSonuclari.Designer.cs">
+      <DependentUpon>CekilisSonuclari.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="YuklenmeEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YuklenmeEkrani.Designer.cs">
+      <DependentUpon>YuklenmeEkrani.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="CekilisYap.resx">
+      <DependentUpon>CekilisYap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CekilisSonuclari.resx">
+      <DependentUpon>CekilisSonuclari.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="YuklenmeEkrani.resx">
+      <DependentUpon>YuklenmeEkrani.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nun.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\index-of-v2-imgs-x-png-black-and-white-256_256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\popupclose.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\white-x-png-4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot_12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cekilisyap.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="apple-touch-icon.ico" />
+    <None Include="Resources\cekilisyap2.png" />
+    <None Include="Resources\cekilisyap-removebg-preview-removebg-preview.png" />
+    <None Include="Resources\cekilisyap-removebg-preview.png" />
+    <None Include="Resources\cekilisyap1.png" />
+    <None Include="Resources\iconfinder_9_1874859 %282%29.png" />
+    <None Include="Resources\iconfinder_9_1874859 %281%29.png" />
+    <None Include="Resources\iconfinder_9_1874859.png" />
+    <None Include="Resources\apple-touch-icon1.png" />
+    <None Include="Resources\296812-512.png" />
+    <None Include="Resources\296812-128.png" />
+    <None Include="Resources\x-close-icon-white.png" />
+    <None Include="Resources\iconfinder_basics-22_296812 %281%291.png" />
+    <None Include="Resources\iconfinder_basics-22_296812 %281%29.png" />
+    <None Include="Resources\iconfinder_basics-22_2968122.png" />
+    <None Include="Resources\apple-touch-icon.png" />
+    <None Include="Resources\iconfinder_window-minimize_1954552 %283%29.png" />
+    <None Include="Resources\iconfinder_window-minimize_1954552 %281%292.png" />
+    <None Include="Resources\iconfinder_window-minimize_1954552 %281%291.png" />
+    <None Include="Resources\iconfinder_minus-remove-delete-minimize_29311421.png" />
+    <None Include="Resources\iconfinder_basics-16_2968181.png" />
+    <None Include="Resources\iconfinder_window-minimize_1954552 %281%29.png" />
+    <None Include="Resources\iconfinder_basics-22_2968121.png" />
+    <None Include="Resources\iconfinder_basics-16_296818.png" />
+    <None Include="Resources\iconfinder_minus_1540160.png" />
+    <None Include="Resources\iconfinder_window-minimize_19545521.png" />
+    <None Include="Resources\iconfinder_window-minimize_1954552.png" />
+    <None Include="Resources\iconfinder_minus-remove-delete-minimize_2931142.png" />
+    <None Include="Resources\iconfinder_basics-22_296812.png" />
+    <None Include="Resources\iconfinder_User_Interface-03_2044284.png" />
+    <None Include="Resources\icons8-menu-256.png" />
+    <None Include="Resources\icons8-menu-50.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
